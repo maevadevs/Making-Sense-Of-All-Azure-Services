@@ -2,4 +2,4 @@
 
 List of All Azure Services
 
-- [Compute](/blob/master/Compute.md)
+- [Compute](/Compute.md)

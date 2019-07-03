@@ -2,13 +2,8 @@
 
 ## Virtual Machines
 
-### Linux Virtual Machines
-
-- Virtualized infrastructure using Linux
-
-### Windows Virtual Machines
-
-- Virtualized infrastructure using Windows Server
+- [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
+- [Windows Virtual Machines](https://docs.microsoft.com/en-us/azure/windows-machines/linux/)
 
 ### SQL Server on Virtual Machines
 

@@ -3,7 +3,7 @@
 ## General
 
 - [Azure Networking Overview](https://docs.microsoft.com/en-us/azure/networking/networking-overview)
-- [Virtual Network] (https://docs.microsoft.com/en-us/azure/virtual-network/)
+- [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/)
 - [Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/)

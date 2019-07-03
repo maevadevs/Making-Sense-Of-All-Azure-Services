@@ -20,6 +20,13 @@
 - [Azure ExpressRoute](https://docs.microsoft.com/en-us/azure/expressroute/)
 - [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/)
 
+## Network Security
+
+- [Azure DDoS Protection Standard](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
+- [Azure Advanced Threat Protection](https://docs.microsoft.com/en-us/azure/security/azure-threat-detection)
+- [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
+- [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
+
 ## Network Monitoring
 
 - [Network Watcher](https://docs.microsoft.com/en-us/azure/network-watcher/)

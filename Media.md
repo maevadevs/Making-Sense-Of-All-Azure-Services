@@ -8,7 +8,7 @@
 ## Streaming
 
 - [Live Streaming Media Services](https://docs.microsoft.com/en-us/azure/media-services/previous/media-services-manage-channels-overview)
-- [Azure Media Player](https://docs.microsoft.com/en-us/azure/media-services/previous/media-services-playback-content-with-existing-players0
+- [Azure Media Player](https://docs.microsoft.com/en-us/azure/media-services/previous/media-services-playback-content-with-existing-players)
 
 ## Media Protection
 

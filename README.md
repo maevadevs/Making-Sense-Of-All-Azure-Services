@@ -1,6 +1,6 @@
 # Making Sense of All Azure Services
 
-List of All Azure Services in a way that makes more sense. Using [Azure Documentations](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all).
+List of resources for all Azure services in a way that makes sense. Using [Azure Documentations](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all).
 
 - [Compute](/Compute.md)
 - [Storage](/Storage.md)

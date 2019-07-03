@@ -26,3 +26,5 @@
 - [Azure Kubernetes Services (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
 - [Functions](https://docs.microsoft.com/en-us/azure/azure-functions/)
 - [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/)
+- [Azure Containers Registry](https://docs.microsoft.com/en-us/azure/container-registry/)
+- [Azure Dev Spaces](https://docs.microsoft.com/en-us/azure/dev-spaces/)

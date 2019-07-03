@@ -4,7 +4,6 @@
 
 - [Linux Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
 - [Windows Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/)
-- [SQL Server on Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview)
 - [Azure VMWare Solution by CloudSimple](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/)
 - [Azure RedHat OpenShift](https://docs.microsoft.com/en-us/azure/openshift/)
 

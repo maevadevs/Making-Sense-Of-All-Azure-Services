@@ -1,5 +1,7 @@
 # Identity & Security
 
+For Network Security, check under *Network*.
+
 ## General Security
 
 - [Azure Security](https://docs.microsoft.com/en-us/azure/security/)
@@ -22,13 +24,6 @@
 
 - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/)
 - [Azure Dedicated HSM](https://docs.microsoft.com/en-us/azure/dedicated-hsm/)
-
-## Network and Application Security
-
-- [Azure DDoS Protection Standard](https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview)
-- [Azure Advanced Threat Protection](https://docs.microsoft.com/en-us/azure/security/azure-threat-detection)
-- [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
-- [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
 
 ## IoT Security
 

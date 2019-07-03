@@ -1,6 +1,6 @@
 # Identity & Security
 
-For Network Security, check under *Network*.
+For Network Security, check under [*Network*](/Network.md).
 
 ## General Security
 

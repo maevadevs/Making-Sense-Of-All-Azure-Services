@@ -1,10 +1,12 @@
 # Azure Always-Free Services
+https://azure.microsoft.com/en-us/free/free-account-faq/
 
 ## Compute
 
-- App Services: 10 web, mobile, or API apps
-- Functions: 1,000,000 requests/month
+- App Services: 10 web, mobile, or API apps with 1GB storage
+- Functions: 1,000,000 requests/month and 400,000 GBs of resource consumption
 - Batch: Always Free
+- Event Grid: 100,000 operations for event publishing and delivery
 
 ## Identity
 
@@ -57,3 +59,11 @@
 - Azure Kubernetes Service (AKS): Always Free
 - Face API: 30,000 transactions/month
 - Translator Text API: 2,000,000 characters
+
+## Internet of Things
+
+- Azure IoT Central: Up to 5 devices, with 50,000 monthly messages per device
+
+## Geospatial
+
+- Azure Maps: S0 account tiers, 250,000 monthly map tile loads and 25,000 monthly service calls

@@ -9,3 +9,4 @@ List of resources for all Azure services in a way that makes sense. Using [Azure
 - [Database](/Database.md)
 - [Identity and Security](/Identity-security.md)
 - [Media](/Media.md)
+- [Always-Free Services](/Always-Free.md)
